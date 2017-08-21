@@ -98,6 +98,7 @@
                     <navigationItem key="navigationItem" id="QyM-f1-sQ3"/>
                     <connections>
                         <outlet property="buttonStackView" destination="ayb-Qm-j3w" id="Nkj-4A-1t4"/>
+                        <outlet property="imageView" destination="cr2-kd-aUd" id="PEC-8a-GBC"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

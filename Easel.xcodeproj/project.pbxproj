@@ -12,6 +12,7 @@
 		BA8EC1521F4B57E40011CDCB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA8EC1501F4B57E40011CDCB /* Main.storyboard */; };
 		BA8EC1541F4B57E40011CDCB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA8EC1531F4B57E40011CDCB /* Assets.xcassets */; };
 		BA8EC1571F4B57E40011CDCB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA8EC1551F4B57E40011CDCB /* LaunchScreen.storyboard */; };
+		BA8EC15F1F4B5C570011CDCB /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA8EC15E1F4B5C570011CDCB /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BA8EC1531F4B57E40011CDCB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA8EC1561F4B57E40011CDCB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA8EC1581F4B57E40011CDCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA8EC15E1F4B5C570011CDCB /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				BA8EC14C1F4B57E40011CDCB /* AppDelegate.swift */,
 				BA8EC14E1F4B57E40011CDCB /* ViewController.swift */,
+				BA8EC15E1F4B5C570011CDCB /* SettingsViewController.swift */,
 				BA8EC1501F4B57E40011CDCB /* Main.storyboard */,
 				BA8EC1531F4B57E40011CDCB /* Assets.xcassets */,
 				BA8EC1551F4B57E40011CDCB /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				BA8EC14F1F4B57E40011CDCB /* ViewController.swift in Sources */,
 				BA8EC14D1F4B57E40011CDCB /* AppDelegate.swift in Sources */,
+				BA8EC15F1F4B5C570011CDCB /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

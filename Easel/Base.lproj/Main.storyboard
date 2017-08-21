@@ -96,6 +96,9 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="QyM-f1-sQ3"/>
+                    <connections>
+                        <outlet property="buttonStackView" destination="ayb-Qm-j3w" id="Nkj-4A-1t4"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
